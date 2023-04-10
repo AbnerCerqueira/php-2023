@@ -1,0 +1,9 @@
+create database biblioteca;
+
+use biblioteca;
+
+create table biblioteca(
+	id_livro int primary key auto_increment,
+	nome_livro varchar(50) not null,
+	data_aluguel varchar(50) not null
+);

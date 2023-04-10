@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+label {
+    color: #ffffff;
+}
+
+form {
+    text-align: center;
+}
+
+fieldset {
+    border-color: #808080;
+    border-radius: 5px;
+    background-color: #5f9ea0;
+    width: 80vw;
+    margin: auto;
+}
+
+a {
+    color: #dcdcdc;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.submits {
+    width: 8vw;
+    height: 7vh;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.submits:hover {
+    background-color: #f4a460;
+}
+
+/* consultar.php */
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 40vw;
+    font-size: larger;
+    background-color: #ffffff;
+    table-layout: fixed;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    border: 1px solid;
+}
+
+td {
+    height: 70px;
+}
